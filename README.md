@@ -136,3 +136,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Contact
 
 For support or inquiries, please contact **Ten-O-5 B.V.** via your preferred communication channels.
+
+## Donations
+If you find this plugin useful, consider making a donation via [PayPal](https://paypal.me/DRosalia?country.x=NL&locale.x=en_US).
