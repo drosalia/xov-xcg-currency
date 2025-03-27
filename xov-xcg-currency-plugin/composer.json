@@ -1,0 +1,24 @@
+{
+  "name": "ten-o-5/xov-xcg-currency-plugin",
+  "description": "Adds the Caribbean Guilder (XCG) currency to WooCommerce with manual conversion rates.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ten-O-5 B.V.",
+      "email": "projects@ten-o-5.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "vendor/phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "XOVXCGCurrency\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit --configuration tests/phpunit.xml"
+  }
+}
